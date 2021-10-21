@@ -1,5 +1,8 @@
 _repo: The-Lake-of-Wine_66415
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Capes, Bernard Edward Joseph
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5344
     wikipedia: https://en.wikipedia.org/wiki/Bernard_Capes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66415#The-Lake-of-Wine
 gutenberg_issued: '2021-09-29'
 identifiers:
   gutenberg: '66415'
